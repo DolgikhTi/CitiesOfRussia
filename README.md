@@ -1,1 +1,2 @@
 # CitiesOfRussia
+Игра города России.
